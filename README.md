@@ -96,8 +96,20 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
  
 # PROGRAM:
+~~~
+NAME: SUBHASH.V
+REG.NO: 24900587
+~~~
+
+![397963145-664d8f03-f55d-430d-8bfa-e53df94119c2](https://github.com/user-attachments/assets/dc63e941-4a07-4ad9-aaac-c9a3f7b22f97)
+
 # CIRCUIT DIAGRAM:
+![397963174-0e49870a-59d3-4642-9acc-e39323a2f23f](https://github.com/user-attachments/assets/dad8d748-6699-4f76-9e31-d0f6c93ba97d)
+
+
 # OUTPUT:
+![397963198-8d2c2221-4a39-44ce-b793-186cfb3b1dc0](https://github.com/user-attachments/assets/d8d8e005-2eb5-4020-807c-41a389772182)
+
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
 
